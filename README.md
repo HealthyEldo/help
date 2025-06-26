@@ -1,2 +1,2 @@
-# help
-Healthy Eldorado Landscape Partnership website.
+# HELP website
+Healthy Eldorado Landscape Partnership website. 
