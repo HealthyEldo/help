@@ -1,7 +1,6 @@
-# HELP Website
-Healthy Eldorado Landscape Partnership Website from the 18 tages wordpress template. See Template description below for details.
+# 18 Tags template
+Looked at for HELP, didn't use
 
-# 18 Tags
 A free WordPress theme that makes it easy to design your website
 
 * Contributors: pootlepress, jamiemarsland, shramee
